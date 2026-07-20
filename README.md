@@ -1,7 +1,7 @@
 # Tomás Gorrini Rech
 
 **Web Pentester & IT Student at UADE**
-**Web Application Security | Red Teaming | Bug Bounty | Linux**
+**| Web Application Security | Red Teaming | Bug Bounty | Linux**
 
 📍 Buenos Aires, Argentina
 🌐 [Portfolio](https://tomasgrech.com/)
