@@ -97,8 +97,8 @@ Active bug bounty hunter under the handle **tgxrech** on:
 
 ## Featured Projects
 
-### [Latam_Flight_Scraper](https://github.com/t-gorrinirech/Latam_Flight_Scraper)
-Web scraping tool for tracking LATAM flight data.
+### [RECH (Ruthless Exposure of Credential Habits)](https://github.com/t-gorrinirech/RECH)
+Personalized wordlist gen that thinks like the person you're targeting
 
 ### Working on some stuff…
 More scripts and offensive security tooling on the way. Check back soon.
