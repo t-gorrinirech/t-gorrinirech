@@ -1,6 +1,6 @@
 # Tomás Gorrini Rech
 
-**Web Pentester & IT Student at UADE**
+**Pentester & DevSecOps Specialist**
 **| Web Application Security | Red Teaming | Bug Bounty | Linux**
 
 📍 Buenos Aires, Argentina
@@ -13,9 +13,9 @@
 
 ## About Me
 
-I'm a **4th-year IT student and Web Pentester** from Buenos Aires, Argentina, focused on **Web Application Security** and **Red Teaming**.
+I'm a **DevSecOps Specialist** and **Web Pentester** from Buenos Aires, Argentina, focused on **Web Application Security** and **Red Teaming**.
 
-I deliver full black-box penetration tests for real e-commerce clients, uncovering vulnerabilities, from authentication bypasses and misconfigurations to stored prompt injections and business logic flaws.
+I deliver full black-box penetration tests for real e-commerce clients, uncovering vulnerabilities from authentication bypasses and misconfigurations to stored prompt injections and business logic flaws.
 
 I'm an active bug bounty hunter on **HackerOne** and **YesWeHack**, and I practice constantly on **HackTheBox**, chaining vulnerabilities from enumeration to exploitation. My English is C1 level (Cambridge Advanced), so I'm comfortable writing clear, detailed technical reports and working on international teams.
 
@@ -26,9 +26,9 @@ I'm an active bug bounty hunter on **HackerOne** and **YesWeHack**, and I practi
 Core areas:
 
 - **Web application security:** black-box pentesting, authentication bypasses, IDOR, business logic flaws, prompt injection, vulnerability assessment, CVSS 3.1 scoring
-- **Offensive tooling:** Burp Suite, Caido, Nmap, Wireshark, network scanning
-- **Programming & scripting:** Python (Requests, Scrapy, curl_cffi, Playwright), Bash, SQL/NoSQL, Java
-- **Linux & infrastructure:** Debian, Kali Linux, Bash scripting, Tmux, Nvim, Docker
+- **Offensive tooling:** Burp Suite, Caido, Nmap, Wireshark, network scanning tools, etc. Basically the standard package
+- **Programming & scripting:** Python, Bash, SQL/NoSQL, Java
+- **Linux & infrastructure:** Debian, Kali Linux, Bash, Tmux, Nvim, Docker
 - **Networking & remote access:** SSH, TCP/UDP/HTTP, ProtonVPN, Tailscale, OpenVPN
 
 **Security tooling**
@@ -66,6 +66,10 @@ Core areas:
 
 ## Experience
 
+### Security Transformation Associate
+**Accenture**
+*09/2026 - Present · Buenos Aires, Argentina*
+
 ### Web Pentester
 **Freelance**
 *07/2026 · Buenos Aires, Argentina*
@@ -88,7 +92,7 @@ Active bug bounty hunter under the handle **tgxrech** on:
 
 ## Certifications
 
-- **Hack4u** — Introduction to Hacking *(07/2026)*
+- **Hack4u** — Introduction to Hacking *(09/2026)*
 - **Hack4u** — Introduction to Linux *(03/2026)*
 - **Udemy** — The Git & GitHub Bootcamp *(03/2025)*
 - **Cambridge University** — C1 Advanced English Exam *(11/2022)*
