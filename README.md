@@ -1,6 +1,6 @@
 # Tomás Gorrini Rech
 
-**Pentester & DevSecOps Specialist**
+**Pentester & DevSecOps Analyst**
 **| Web Application Security | Red Teaming | Bug Bounty | Linux**
 
 📍 Buenos Aires, Argentina
@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a **DevSecOps Specialist** and **Web Pentester** from Buenos Aires, Argentina, focused on **Web Application Security** and **Red Teaming**.
+I'm a **DevSecOps Analyst** and **Web Pentester** from Buenos Aires, Argentina, focused on **Web Application Security** and **Red Teaming**.
 
 I deliver full black-box penetration tests for real e-commerce clients, uncovering vulnerabilities from authentication bypasses and misconfigurations to stored prompt injections and business logic flaws.
 
